@@ -1,6 +1,3 @@
-# Docker_Python_DataScience
-
-<h3>Version 1</h3>
 
 Uses scikit-learn machine learning library (from requirements.txt) and takes sample fruit dataset (height,weight,texture) and predicts the fruit based on the input dataset. 
 
