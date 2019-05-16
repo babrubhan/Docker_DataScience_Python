@@ -8,5 +8,4 @@ Uses scikit-learn machine learning library (from requirements.txt) and takes sam
 #Python
 #SciKit-learn
 #MachineLearning
-# Docker_Python_DataScience
-# Docker_DataScience_Python
+
